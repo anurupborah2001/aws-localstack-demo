@@ -2,9 +2,10 @@ AWS Localstack Demo Implementation
 -----------
 
 1. aws configure
-    api key :  temp
-    secret key :  temp
-    region : ap-southeast-1
+
+    >>aws_access_key_id :  temp<br/>
+   aws_secret_access_key :  temp<br/>
+    region : ap-southeast-1<br/>
     output: json
 
 ## S3
